@@ -9,9 +9,6 @@ ECHO =================================
 
 echo *******************************************
 ECHO Hello 	: %username% ! 	Time: %time%
-ECHO Coder	: Animesh
-ECHO Follow	: fb.com\anir0yofficial
-ECHO Mail	: ceh_trainer@outlook.com
 echo *******************************************
 :CONFIRM
 ECHO 1.Unhide all files
@@ -39,10 +36,6 @@ echo	*	1. Show all hidden file
 echo	*	2. Hide all files. Please don't use!
 echo	*		use it for prank your friend!
 echo	*	3. view Help, you already here ;)
-echo	*	Call me if u faceing any Prolem regarding this.
-echo	*	thanks!
-echo	*	- Animesh(Phone + Whatsapp +91 9804325884)
-echo	*	mail :animeshroy[at]live[dot]com
 ECHO	***************************************************************
 goto CONFIRM
 
